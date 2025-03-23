@@ -50,6 +50,6 @@ This is a **User Management System** built with **React, TypeScript, Redux Toolk
 ## Technologies Used
 - **Frontend**: React, TypeScript, Redux Toolkit, React Router, Tailwind CSS
 - **State Management**: Redux Toolkit (RTK)
-- **API Fetching**: `fetch` + RTK Async Thunks
+- **API Fetching**: `axios` + RTK Async Thunks
 - **Styling**: Tailwind CSS (fully responsive)
 
